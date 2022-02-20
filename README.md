@@ -88,15 +88,15 @@ Contoh default :
 
 ```
 {
-    "botName": "kev",
-    "ownerName": "kevin apta",
+    "botName": "Trustbot",
+    "ownerName": "꧁༺「✯࿗ꌛ℮ꁣꁣꊛꈛ✯ī.am 」༻꧂⁩",
     "BarBarKey": "PmPuNA4yCZa3iuBGs5Nw",
     "VhtearKey": "c1d162b46e634f389efa1ac715f03d03",
     "NaufalKey": "0LeVii-SNjD2G-QBls0v", 
     "Lol": "847de7716f17a51eeba4235c", 
     "TobzKe": "BotWeA",
     "XteamKey": "58a7334f7c2c0d93",      
-    "ownerNumber": "6283141621181@s.whatsapp.net, 6282151717363@s.whatsapp.net",
+    "ownerNumber": "4915905890216@s.whatsapp.net, 6282151717363@s.whatsapp.net",
     "botPrefix": "!", 
     "batre": "85", 
     "chargi": "yes", 
@@ -135,15 +135,9 @@ Ket: Aktiv sesuai termux dan owner nya online
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* <a href="https://instagram.com/kevin_apta_kun"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-* <a href="https://wa.me/+6283141621181"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-* <a href="https://chat.whatsapp.com/H7puFYYnKkUCNHjlveRTAh"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+* <a href="https://instagram.com/trustblack77"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+* <a href="https://wa.me/+4915905890216"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/LXOCuNPvtjrAlTz7vCahsT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## THANKS TO <img src="https://github.com/gameproarmy/gameproarmy/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`ALLAH SWT`]
-* <a href="https://github.com/Ramlan666"><img alt="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN ID-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/MhankBarBar"><img alt="MhankBarBar" src="https://img.shields.io/badge/MhankBarBar-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/fckveza"><img alt="fckveza" src="https://img.shields.io/badge/Veza-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/NazwaS"><img alt="NazwaS" src="https://img.shields.io/badge/NazwaS-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://github.com/kevzka/kevbotwhatsapp/blob/main/assets/tumblr_my8poiw5ak1qztgoio1_500.gif" width="600" />
 
